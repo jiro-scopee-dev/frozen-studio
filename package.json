@@ -1,0 +1,1 @@
+{"name":"jiro-frozen-studio","private":true,"type":"module","scripts":{"build":"esbuild src/journey.js --bundle --minify --outfile=dist/app.js","dev":"node server.mjs"},"dependencies":{"three":"^0.180.0"},"devDependencies":{"esbuild":"^0.25.0"}}
